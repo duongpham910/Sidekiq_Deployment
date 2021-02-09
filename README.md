@@ -51,4 +51,5 @@ $ systemctl --user restart sidekiq.service
 $ systemctl --user status sidekiq.service
 ```
 
-Done.
+Reference
+https://www.rubydoc.info/gems/capistrano-sidekiq/1.0.2#integration-with-systemd
